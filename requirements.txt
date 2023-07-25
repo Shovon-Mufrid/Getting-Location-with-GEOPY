@@ -1,0 +1,12 @@
+django
+django-crispy-forms
+geopy
+geoip2
+folium
+crispy-bootstrap4
+django
+pillow
+django-cleanup==6.0.0
+django-crispy-forms==1.14.0
+django-jazzmin
+crispy-bootstrap4
